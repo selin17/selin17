@@ -1,9 +1,9 @@
 # Hi, I'm Selin 👋
 
 ## About Me
-- Computer Engineering student
-- Interested in game development
-- Learning data structures and algorithms
+- I am a Computer Engineering student
+- I am interested in game development
+- I am learning data structures and algorithms
 
 ## Interests
 - Game Development 🎮
