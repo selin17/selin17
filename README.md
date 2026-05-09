@@ -23,11 +23,6 @@
 - Build my own games
 - Improve problem-solving skills
 
-## Projects
-- Blur Detection Project
-- Image Processing Experiments
-- Quiz Exam System
-
 ## Contact
 GitHub: [selin17](https://github.com/selin17)  Hi there 👋
   
