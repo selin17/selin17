@@ -19,10 +19,6 @@
 - Learning game mechanics and collision detection
 - Improving problem-solving skills through game development
 
-## Goals
-- Build my own games
-- Improve problem-solving skills
-
 ## Contact
 GitHub: [selin17](https://github.com/selin17)  Hi there 👋
   
