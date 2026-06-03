@@ -14,11 +14,6 @@
 - Java
 - Data Structures
 
-  ## Currently Working On
-- Developing a Breakout game using JavaScript and HTML5 Canvas
-- Learning game mechanics and collision detection
-- Improving problem-solving skills through game development
-
 ## Contact
 GitHub: [selin17](https://github.com/selin17)  Hi there 👋
   
