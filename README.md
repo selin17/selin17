@@ -1,19 +1,5 @@
 # Hi, I'm Selin 👋
 
-## About Me
-- I am a Computer Engineering student
-- I am interested in game development
-- I am learning data structures and algorithms
-
-## Interests
-- Game Development 🎮
-- Artificial Intelligence 🤖
-- Computer Vision 👁️
-
-## Currently Learning
-- Java
-- Data Structures
-
 ## Contact
 GitHub: [selin17](https://github.com/selin17)  Hi there 👋
   
